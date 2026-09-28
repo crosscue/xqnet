@@ -1,0 +1,12 @@
+/xqnet
+/xqnet.exe
+bin/
+xqnet-output/
+output*/
+*.tmp
+*.pcap
+*.pcapng
+*.dmp
+.env
+.env.*
+.DS_Store

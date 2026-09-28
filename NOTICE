@@ -1,0 +1,11 @@
+xqnet
+Copyright 2026 Crosscue
+
+This product is licensed under the Apache License, Version 2.0.
+
+This product includes or links against third-party open-source software.
+See THIRD_PARTY_NOTICES.md for direct dependency attribution and licensing notes.
+
+xqnet can invoke external Zeek or Suricata installations when packet-capture
+input is supplied. Those tools are not distributed in this source archive and
+remain subject to their respective upstream licences and trademarks.

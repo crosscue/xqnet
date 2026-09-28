@@ -1,0 +1,32 @@
+name: Feature request
+description: Propose an xqnet enhancement
+title: "[feature] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Analytical or operational problem
+      description: Describe the problem before proposing the implementation.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Affected contract/surface
+      options:
+        - Tool/CLI only
+        - network-reference eventizer
+        - xqnet-analysis projections
+        - xqnet-mcp interface
+        - Zeek/Suricata adapter behavior
+        - Documentation
+        - Unsure
+    validations:
+      required: true

@@ -1,0 +1,1 @@
+{"ts":1788606000.0,"uids":["CDHCP1"],"client_addr":"192.168.1.10","server_addr":"192.168.1.1","mac":"aa:bb:cc:dd:ee:01","host_name":"laptop17","assigned_addr":"192.168.1.10","lease_time":3600.0,"msg_types":["DISCOVER","OFFER","REQUEST","ACK"]}
