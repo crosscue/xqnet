@@ -2,7 +2,7 @@
 /xqnet.exe
 bin/
 xqnet-output/
-output*/
+/output*/
 *.tmp
 *.pcap
 *.pcapng
